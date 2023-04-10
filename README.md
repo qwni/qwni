@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qwni&label=Profile%20views&color=0e75b6&style=flat" alt="qwni" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif">
+<img align="center" alt="Coding" width="250" src="https://64.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif">
 
 
 - 🔭 I’m currently working on **various projects to improve my skills**
