@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About me:
 🔭 I’m currently working on various projects to improve my skills<br><br>📫 How to reach me mazenabdelwahed24@gmail.com<br><br>⚡ Fun fact The first message ever sent over the internet was "lo" in 1969. The message was supposed to be "login", but the system crashed after the first two letters.
 
 
